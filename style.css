@@ -1,0 +1,88 @@
+body{
+    color: #009933;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+p{
+    letter-spacing: 10px;
+}
+
+.kursive{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.Paragraph3{
+    font-family: Comic Sans;
+    font-size: 25pt;
+    text-indent: 50px;
+}
+
+.rich{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: initial;
+    color: orange;
+    line-height: 25pt;
+}
+
+.perenos{
+    white-space: nowrap;
+}
+
+.red{
+    color: #FF0000;
+    text-transform: uppercase;
+}
+
+.Paragraph7{
+    font-family: Courier;
+    font-size: 16px;
+    letter-spacing: 200%;
+    flex-direction: underline;
+    text-indent: 2cm;
+    line-height: double;
+}
+
+.Paragraph8{
+    font-family: Courier;
+    font-size: 16px;
+    letter-spacing: 200%;
+    flex-direction: underline;
+    text-indent: 2cm;
+    line-height: double;
+}
+
+.Paragraph9{
+    font-family: Courier;
+    font-size: 16px;
+    letter-spacing: 200%;
+    flex-direction: underline;
+    text-indent: 2cm;
+    line-height: double;
+}
+
+.Paragraph10{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    color: aquamarine;
+    line-height: 15px;
+    text-indent: 1cm;
+}
+
+.Paragraph11{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    color: blue;
+    line-height: 5px;
+    text-indent: 1cm;
+}
+
+.Paragraph12{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    color: blueviolet;
+    line-height: 10px;
+    text-indent: 1cm;
+}
